@@ -1,7 +1,7 @@
 <!-- Organization profile -->
 
 <p align="center">
-  <img src="https://cloud.studio/assets/logo.svg" width="150" alt="Cloud Studio Logo" />
+  <img src="https://www.cloud.studio/wp-content/uploads/2022/04/cloudstudio-logo-PNG-gradiente.png" alt="Cloud Studio Logo" />
 </p>
 
 <h1 align="center">Cloud Studio IoT</h1>
