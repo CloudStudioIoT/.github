@@ -1,112 +1,100 @@
-<!-- Organization profile -->
-
 <p align="center">
-  <img src="https://www.cloud.studio/wp-content/uploads/2022/04/cloudstudio-logo-PNG-gradiente.png" alt="Cloud Studio Logo" />
+ <img src="https://cloudstudioiot.com/logos/cloudstudio-symbol-full-gradient-main.svg?dpl=dpl_6rpRDw47eKcPzW5VsoEDtGEmZy2T" alt="Cloud Studio IoT" width="300" />
 </p>
 
 <h1 align="center">Cloud Studio IoT</h1>
 
 <p align="center">
-  🚀 Empowering smart industries through connected software solutions.
+ All-in-one IoT platform to monitor, automate, and control your operations in real time.
 </p>
 
 <p align="center">
-  <a href="https://cloud.studio">🌐 Website</a> •
-  <a href="https://www.linkedin.com/company/cloud-studio-iot">💼 LinkedIn</a> •
-  <a href="https://github.com/CloudStudioIoT">🐙 GitHub</a>
+ <a href="https://cloudstudioiot.com">🌐 Website</a> •
+ <a href="https://cloudstudioiot.com/docs">📖 Docs</a> •
+ <a href="https://cloudstudioiot.com/blog">📝 Blog</a> •
+ <a href="https://www.linkedin.com/company/cloud-studio-iot">💼 LinkedIn</a> •
+ <a href="https://github.com/CloudStudioIoT">🐙 GitHub</a>
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/MWC-2025%20%7C%202026%20Exhibitor-blue" /> 
+ <img src="https://img.shields.io/badge/FiveCLM-Winning%20Startup%202025-green" /> 
+ <img src="https://img.shields.io/badge/FIWARE-Compatible-brightgreen" /> 
+ <img src="https://img.shields.io/badge/ENISA-Emerging%20Company-9cf" />
+ <img src="https://img.shields.io/badge/AWS-Partner-FF9900" /> 
+ <img src="https://img.shields.io/badge/Devices-250K%2B-orange" /> 
+ <img src="https://img.shields.io/badge/Countries-15%2B-blueviolet" />
 </p>
 
 ---
 
-## 🌟 About Us
+## About
 
-**Cloud Studio IoT** is a leading provider of innovative software solutions designed to connect the physical and digital worlds in the realm of industrial automation, IoT, and data-driven decision making.  
-We create intelligent systems that optimize operations, enhance productivity, and empower industries to make smarter decisions. By leveraging cutting-edge technologies, we help organizations transition to connected, automated environments seamlessly.
+Cloud Studio IoT is a low-code, white-label IoT Application Enablement Platform (AEP) and Cloud or On-Premise IoT Platform with an End-to-End IoT Solution. We help businesses connect their sensors, visualize data, and automate operations — without building a custom IoT solution from scratch.
 
-Our mission is to build scalable, secure, and reliable solutions that bridge the gap between hardware and software for smarter, more efficient operations.
+Founded in Madrid (2020) with roots in large-scale IoT projects since 2017. Today we operate across 15+ countries with 250,000+ devices deployed and 50 million datapoints ingested daily. Part of the [Madrid Innovation](https://www.madridinnova.es/empresas/cloud-studio/) ecosystem.
 
----
+## What We Offer
 
-## 🔧 What We Do
+- **CS Gear** — IoT platform: device management, dashboards, automation rules, alarms, and multi-tenant environments
+- **CS Link** — Multi-protocol connectivity: LoRaWAN, MQTT, CoAP, NB-IoT, Sigfox, HTTP, TCP, Modbus, GPS
+- **30+ vertical solutions** — Turnkey templates for smart buildings, agriculture, industrial monitoring, hospitality, energy, and more
+- **Custom development** — Bespoke widgets, integrations, and extensions for specific requirements
+- **White-label & multi-tenant** — 3-level branding, per-instance pricing, cloud or on-premise deployment
 
-We offer a wide range of IoT and industrial software development services, including but not limited to:
+## Platform Architecture
 
-- 🧠 **Custom IoT Platform Development**  
-  Tailored solutions for connecting devices, sensors, and machines to cloud systems for real-time insights and automation.
-  
-- 📡 **Edge-to-Cloud Communication**  
-  Enabling seamless communication between edge devices and cloud systems for improved data transmission and processing.
+| Layer | Technology |
+|-------|-----------|
+| Backend | C# / .NET Core, WCF, SignalR |
+| Frontend | Angular, TypeScript, Bootstrap, Chart.js |
+| Database | SQL Server |
+| Scripting | JavaScript (Jint ES6 engine) |
+| Protocols | LoRaWAN, MQTT, CoAP, NB-IoT, Sigfox, HTTP, TCP, Modbus, GPS |
+| Deployment | Cloud (AWS, Azure) or on-premise |
 
-- 📊 **Dashboards & Industrial Analytics**  
-  Creating data visualization platforms with real-time analytics to monitor and optimize industrial processes and operations.
+## Customers
 
-- 🔐 **Secure, Scalable Integrations**  
-  Designing secure integration layers for disparate systems and devices, ensuring scalability and flexibility across platforms.
+| Customer | Industry | Location | Metric |
+|----------|----------|----------|--------|
+| Buenos Aires City Government | Smart Cities | Argentina | 125,000+ luminaires |
+| MoviTHERM | Fire Detection | California, USA | 99% detection accuracy |
+| Gobierno de Canarias | Education | Canary Islands, Spain | 120+ schools |
+| R8 Technologies | Energy | Gulf of Mexico | 20% fuel optimization |
+| APOLUS / Bahia Principe | Hospitality | Riviera Maya, Mexico | 25% water savings |
+| CALSA | Industrial | Tucuman, Argentina | 40% efficiency gain |
+| Ayuntamiento de Tarragona | Heritage | Tarragona, Spain | 2,000+ year-old site |
+| Ayuntamiento de Valencia | Events / Safety | Valencia, Spain | Real-time monitoring |
 
-- ⚙️ **Device & Protocol Interoperability**  
-  Supporting a wide variety of industrial protocols like MQTT, Modbus, and OPC-UA for seamless device communication and integration.
+## Partner Ecosystem
 
----
+### Hardware
+[Abeeway](https://www.abeeway.com) · [DecentLab](https://www.decentlab.com) · [Dragino](https://www.dragino.com) · [ELSYS](https://www.elsys.se) · [IMBUILDINGS](https://www.imbuildings.com) · [Lansitec](https://www.lansitec.com) · [Milesight](https://www.milesight.com) · [MOKO Smart](https://www.mokosmart.com) · [MoviTHERM](https://movitherm.com/solutions/early-fire-detection/) · [PMX Systems](https://www.pmxsystems.com) · [RAD](https://www.rad.com) · [Seeedstudio](https://www.seeedstudio.com) · [Sensative](https://www.sensative.com) · [Talkpool](https://www.talkpool.com) · [Technoton](https://www.technoton.com) · [Teltonika](https://www.teltonika.lt) · [TEKTELIC](https://www.tektelic.com)
 
-## 📌 Core Technologies & Expertise
+### Connectivity
+[Actility](https://www.actility.com) · [ChirpStack](https://www.chirpstack.io) · [ConnectedYou](https://www.connectedyou.io) · [Helium](https://www.helium.com) · [LORIOT](https://www.loriot.io) · [Onomondo](https://www.onomondo.com) · [OrbiWise](https://www.orbiwise.com) · [The Things Stack](https://www.thethingsindustries.com)
 
-We specialize in a comprehensive set of tools and technologies designed to build robust IoT ecosystems:
+### System Integrators
+[Axenova](https://www.axenova.com) · [BGH](https://www.bgh.com.ar) · [EdgeInst](https://www.edgeinst.com) · [IAGROS](https://www.iagros.com) · [IBA](https://www.iba.com.ar) · [MMA](https://www.mma.com.ar) · [Norcotek](https://www.norcotek.com) · [Smartmation](https://www.smartmation.com.ar) · [Tatanka](https://www.tatanka.com.ar)
 
-- **Languages & Frameworks**  
-  - .NET & C#  
-  - React, TypeScript  
-  - SQL & NoSQL Databases
-  
-- **IoT & Cloud Solutions**  
-  - Azure IoT & Edge Solutions  
-  - MQTT, Modbus, OPC-UA protocols
+### Technology & Cloud
+[AWS](https://aws.amazon.com) · [Microsoft Azure IoT](https://azure.microsoft.com/iot) · [N3uron](https://www.n3uron.com) · [YuDash](https://www.yudash.com)
 
-- **Data Visualization & Analytics**  
-  - Power BI, Grafana  
-  - InfluxDB (Time-series data)
-  
-- **DevOps & CI/CD**  
-  - GitHub Actions  
-  - Azure DevOps
-  
----
+### Ecosystem
+[CAIoT](https://www.caiot.org) · [Madrid Innovation](https://www.madridinnovacion.com)
 
-## 🌱 Our Approach to Innovation
+## Apps
 
-At Cloud Studio IoT, we believe in continuous innovation. We work closely with our partners and clients to understand their unique needs and deliver tailored solutions that are both practical and future-proof. Our agile development process ensures we stay aligned with business goals while delivering high-quality software solutions in a timely manner.
+- iOS: [App Store](https://apps.apple.com/us/app/gear-studio/id1492131020)
+- Android: [Play Store](https://play.google.com/store/apps/details?id=gear.cloud.studio)
 
-Our team is passionate about pushing the boundaries of technology, making use of the latest advancements in IoT, AI, and cloud computing to build intelligent solutions that evolve with the industries we serve.
+## Connect
 
----
-
-## 🤝 Let’s Connect
-
-We are always open to new opportunities for collaboration, research, and development. Whether you're looking for a strategic partner or you want to contribute to the evolution of our platform, we welcome your ideas and engagement.
-
-- Connect with us on [LinkedIn](https://www.linkedin.com/company/cloud-studio-iot)
-- Visit our website for more details: [cloud.studio](https://cloud.studio)
-- Explore our open-source projects and contributions on [GitHub](https://github.com/CloudStudioIoT)
-
-We’re excited to collaborate and grow with you!
-
----
-
-_“Where smart systems meet beautiful code.”_
-
----
-
-### 📣 Latest Updates
-
-Stay up to date with our latest news, projects, and innovations:
-
-- [Introducing our new Edge-to-Cloud platform](https://cloud.studio/blog/edge-to-cloud)
-- [Check out our latest case study on smart factory solutions](https://cloud.studio/case-studies/smart-factory)
-- [Contribute to our open-source projects on GitHub](https://github.com/CloudStudioIoT)
-
----
-
-### 🛠️ Join Our Team
-
-We are always looking for talented individuals to join our growing team. If you’re passionate about IoT, industrial automation, or data science, we would love to hear from you!
-
-- Visit our [Careers page](https://cloud.studio/careers) for open positions.
+| | |
+|-|-|
+| 🌐 Website | [cloudstudioiot.com](https://cloudstudioiot.com) |
+| 📖 Docs | [cloudstudioiot.com/docs](https://cloudstudioiot.com/docs) |
+| 📝 Blog | [cloudstudioiot.com/blog](https://cloudstudioiot.com/blog) |
+| 💼 LinkedIn | [Cloud Studio IoT](https://www.linkedin.com/company/cloud-studio-iot) |
+| 💬 WhatsApp | [Chat with us](https://api.whatsapp.com/send?phone=34694270010) |
+| 📧 Email | [info@cloud.studio](mailto:info@cloud.studio) |
